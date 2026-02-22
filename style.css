@@ -5,7 +5,7 @@
   font-family: Arial, sans-serif;
 }
 
-/* BACKGROUND IMAGE ONLY */
+/* BACKGROUND IMAGE */
 body {
   background: url("https://images.pexels.com/photos/1655166/pexels-photo-1655166.jpeg")
     no-repeat center center/cover;
@@ -26,13 +26,12 @@ body {
   text-align: center;
 }
 
-/* TITLE */
 .login-box h2 {
   margin-bottom: 20px;
   color: black;
 }
 
-/* INPUTS */
+/* INPUT */
 .login-box input {
   width: 100%;
   padding: 12px;
